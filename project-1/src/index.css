@@ -1,0 +1,96 @@
+body{
+background-color: rgb(45, 39, 39);
+}
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.discription{
+  color: aliceblue;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  padding-top: 7px;
+  
+}
+.job{
+  margin-top: 1px;
+}
+.web{
+  margin-top: 3px;
+}
+.buttons{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 5px;
+
+}
+.mail{
+  background-color: aliceblue;
+  width: 85px;
+  height: 35px; 
+  border-radius: 20px;
+  margin-right: 10px;
+}
+
+.linkdin{
+  color: aliceblue;
+  background-color: aqua;
+  width: 85px;
+  height: 35px; 
+  border-radius: 20px;
+  font-size: 300;
+  margin-left: 10px;
+
+} 
+.About{
+  color:white;
+  margin-left: 35%;
+}
+.title{
+  margin-left: 160px;
+
+}
+.interest{
+  color:white;
+  margin-left: 35%;
+
+}
+.intitle{
+  margin-left: 160px;
+
+}
+.footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 200px;
+  background-color: black;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
+  height: 100px;
+  
+}
+.twi{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.fac{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.ins{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.git{
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
